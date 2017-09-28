@@ -18,7 +18,7 @@
  * @author     Tony Ciccarone <me@tonyciccarone.com>
  * @copyright  2004-2017 Tony Ciccarone
  * @license    http://www.php.net/license/3_01.txt  PHP License 3.01
- * @link       http://pear.php.net/package/PackageName
+ * @link       https://github.com/ciccarone/Overlay_Image/blob/develop/Image_Overlay.php
  */
 
 /**
@@ -125,7 +125,3 @@
     }
 
   }
-
-  // $img = new Overlay_Image('http://www.nwnit.com/assets/NWN-Cloud-Video-Panel1.png?1506616243866', 'rgba(0,0,0,.5)', '<h1>hello world</h1>');
-  //
-  // echo $img->display();
